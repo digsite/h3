@@ -1,4 +1,4 @@
-# HALO 2 DIGSITE
+# HALO 3 DIGSITE
 Repository for Halo 3 Digsite content.
 
 # LICENSE INFORMATION
